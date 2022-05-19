@@ -5,8 +5,8 @@ hero:
   # animated text loop
   occupations:
     - 'Web Developer'
-    - 'Pharmaceutical Salesman'
-    - 'Private Detective'
+    - 'entrepreneur'
+    - 'programming enthusiast'
 
   # hero background image
   bg_image: 'images/background.jpg'
@@ -17,7 +17,7 @@ hero:
 about:
   enable: true
   image: 'images/profile.jpg'
-  title: 'THIS IS ME'
+  title: 'I roll like this'
   content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [LinkedIn, Github, or by email](#contact)!
   button:
     enable: true
@@ -35,15 +35,12 @@ experience:
       duration: '2020-Current'
       content: I make websites.
 
-    - name: Private Detective
-      company: Psych
+    - name: 'entrepreneur'
+      company: Kari Enterprise
       duration: '2019-2020'
-      content: Okay. This is hard to explain but I’m going to give it a shot. You and I are opening our own private detective agency.
+      content: Okay. This is hard to explain but I’m going to give it a shot. You and I are opening our own company buying shares say maybe in real estate.
 
-    - name: Pharmaceutical Salesman
-      company: South Coast Pharmaceuticals
-      duration: '2012-2018'
-      content: We are not bounty hunters, Shawn. I am a pharmaceutical salesman. And Lassiter made it very clear! He said in no uncertain terms. These are certain terms, Shawn! Certain terms!
+  
 
 ############################### Skill #################################
 skill:
@@ -51,16 +48,16 @@ skill:
   title: 'SOME SKILLS'
   showpercent: false
   skill_list:
-    - name: 'React'
+    - name: 'web developing'
       percentage: '85%'
 
-    - name: 'Detecting'
-      percentage: '93%'
+    - name: 'technical writing'
+      percentage: '100%'
 
-    - name: 'Selling'
+    - name: 'entrepreneurship'
       percentage: '25%'
 
-    - name: 'Yelling'
+    - name: 'coding'
       percentage: '100%'
 
 ######################### funfacts #############################3
