@@ -1,6 +1,7 @@
 ########################## hero area ##########################
 hero:
-  title: "Hi, welcome to my Personal Portfolio "
+  title: "Bill Ochieng: |||||||||||||||||||||||||||||||||||||||||||||| imagination running wild 🫠"
+          
 
   # animated text loop
   occupations:
@@ -50,7 +51,25 @@ experience:
 ############################### Skill #################################
 skill:
   enable: true
-  title: 'SOME SKILLS'
+  title: 'TECHNICAL SKILLS'
+  showpercent: false
+  skill_list:
+    - name: 'web developing'
+      percentage: '85%'
+
+    - name: 'technical writing'
+      percentage: '100%'
+
+    - name: 'entrepreneurship'
+      percentage: '25%'
+
+    - name: 'coding'
+      percentage: '100%'
+
+############################### Other-Skill #################################
+Other-skill:
+  enable: true
+  title: 'INTERPERSONAL SKILLS'
   showpercent: false
   skill_list:
     - name: 'web developing'
@@ -75,16 +94,16 @@ funfacts:
 
     - name: 'SITES BUILT'
       image: 'images/icons/web-development.png'
-      count: '25'
+      count: '5'
 
     - name: 'I am my own fan'
       image: 'images/icons/happy.png'
-      count: '1'
+      count: '100%'
 
 ############################# portfolio ################################
 portfolio:
   enable: true
-  title: 'PROJECTS'
+  title: 'RELEVANT PROJECTS'
   portfolio_list:
     - name: Hugo
       image: 'images/portfolio/hugo.png'
