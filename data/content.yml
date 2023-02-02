@@ -1,9 +1,11 @@
 ########################## hero area ##########################
 hero:
-  title: "Hi, welcome to my Personal Portfolio"
+  title: "Hi, welcome to my research site"
 
   # animated text loop
   occupations:
+  
+    - 'Financial Analyst '
     - 'Software Engineer'
     - 'Web Developer'
     - 'Financial Analyst'
