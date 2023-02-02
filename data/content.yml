@@ -1,12 +1,15 @@
 ########################## hero area ##########################
 hero:
-  title: "Hi, welcome to my research site"
+  title: "Hi, welcome to my Personal Portfolio"
 
   # animated text loop
   occupations:
+    - 'Software Engineer'
     - 'Web Developer'
-    - 'entrepreneur'
+    - 'Financial Analyst'
     - 'programming enthusiast'
+    - 'Data Analyst'
+    - 'Insurance Agent'
 
   # hero background image
   bg_image: 'images/background.jpg'
@@ -17,7 +20,7 @@ hero:
 about:
   enable: true
   image: 'images/profile.jpg'
-  title: 'I roll like this'
+  title: 'Check out my Resume!'
   content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [LinkedIn, Github, or by email](#contact)!
   button:
     enable: true
@@ -64,7 +67,7 @@ skill:
 funfacts:
   enable: true
   funfacts_list:
-    - name: 'CUPS PER DAY'
+    - name: 'I play soccer, maybe pro?!'
       image: 'images/icons/coffee.png'
       count: '2'
 
@@ -72,14 +75,14 @@ funfacts:
       image: 'images/icons/web-development.png'
       count: '25'
 
-    - name: 'USELESS ROW OF ICONS'
+    - name: 'I am my own fan'
       image: 'images/icons/happy.png'
       count: '1'
 
 ############################# portfolio ################################
 portfolio:
   enable: true
-  title: 'MY WORK'
+  title: 'PROJECTS'
   portfolio_list:
     - name: Hugo
       image: 'images/portfolio/hugo.png'
