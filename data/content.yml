@@ -1,11 +1,15 @@
 ########################## hero area ##########################
 hero:
-  title: "Hi, welcome to my research site"
+  title: "Hi there, welcome to my Portfolio"
 
   # animated text loop
   occupations:
+  
+    - 'Finance Enthusiast '
+    - 'Software Engineer'
     - 'Web Developer'
-    - 'entrepreneur'
+    - 'Data Analyst'
+    - 'Insurance Agent'
     - 'programming enthusiast'
 
   # hero background image
