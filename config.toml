@@ -24,15 +24,16 @@ disableScrollToTop = false
 [params.label]
 text = "Home"
 icon = "/pic.png"
-iconHeight = 24
+iconHeight = 18
+iconWidth = 18
 
 [params.profileMode]
 enabled = true
 title = "Bill Ochieng"
 subtitle = "Hello, welcome to my personal portfolio!"
 imageUrl = "pic.png"
-imageWidth = 120
-imageHeight = 120
+imageWidth = 224
+imageHeight = 220
 
 [[params.socialIcons]]
 name = "github"
