@@ -22,7 +22,7 @@ There is a knowledge gap that arises in the intersection of user privacy and sof
 
 - T. Breaux and A. Antón, "Analyzing Regulatory Rules for Privacy and Security Requirements," in IEEE Transactions on Software Engineering, vol. 34, no. 1, pp. 5-20, Jan.-Feb. 2008, doi: 10.1109/TSE.2007.70746.
 
-- Hatamian, M., Wairimu, S., Momen, N. et al. A privacy and security analysis of early-deployed COVID-19 contact tracing Android apps. Empir Software Eng 26, 36 (2021). https://doi.org/10.1007/s10664-020-09934-4
+- Hatamian, M., Wairimu, S., Momen, N. et al. A privacy and security analysis of early-deployed COVID-19 contact tracing Android apps. Empir Software Eng 26, 36 (2021). <https://doi.org/10.1007/s10664-020-09934-4>
 
 - Jie Chen, L. Ramanathan, Mamoun Alazab,
 Holistic big data integrated artificial intelligent modeling to improve privacy and security in data management of smart cities,
@@ -31,10 +31,8 @@ Volume 81,
 2021,
 103722,
 ISSN 0141-9331,
-https://doi.org/10.1016/j.micpro.2020.103722.
-(https://www.sciencedirect.com/science/article/pii/S014193312030867X)
-
-
+<https://doi.org/10.1016/j.micpro.2020.103722>.
+(<https://www.sciencedirect.com/science/article/pii/S014193312030867X>)
 
 3. State and introduce at least one research question that, when answered, will fill the knowledge gap.
 
