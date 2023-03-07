@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>first on Bill Ochieng</title>
+    <link>https://billochieng.netlify.app/tags/first/</link>
+    <description>Recent content in first on Bill Ochieng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Nov 2021 08:10:29 -0400</lastBuildDate><atom:link href="https://billochieng.netlify.app/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://billochieng.netlify.app/resume/</link>
+      <pubDate>Tue, 02 Nov 2021 08:10:29 -0400</pubDate>
+      
+      <guid>https://billochieng.netlify.app/resume/</guid>
+      <description>My resume</description>
+    </item>
+    
+  </channel>
+</rss>

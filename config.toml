@@ -30,7 +30,7 @@ iconWidth = 18
 [params.profileMode]
 enabled = true
 title = "Bill Ochieng"
-subtitle = "Hello, welcome to my personal portfolio!"
+subtitle = "Imagination running wild"
 imageUrl = "pic.png"
 imageWidth = 224
 imageHeight = 220

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Bill Ochieng</title>
+    <link>https://billochieng.netlify.app/projects/</link>
+    <description>Recent content in Projects on Bill Ochieng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Nov 2021 08:10:29 -0400</lastBuildDate><atom:link href="https://billochieng.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tic-Tac-Toe made with PySimpleGUI</title>
+      <link>https://billochieng.netlify.app/projects/my-project/</link>
+      <pubDate>Tue, 02 Nov 2021 08:10:29 -0400</pubDate>
+      
+      <guid>https://billochieng.netlify.app/projects/my-project/</guid>
+      <description>About the project You can find the current release on Tic-Tac-Toe!
+This was a final project for my software engineering class, and was quite a challenging one. It was my first time implementing graphics into a Python program. This was done using PySimpleGUI which was a challenge in it self to learn, however well worth it. Over all the project was fun to complete, and gave the user a nice looking way to play tic-tac-toe against friends or an AI.</description>
+    </item>
+    
+  </channel>
+</rss>
