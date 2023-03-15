@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://billochieng.netlify.app"
+baseURL = "/"
 title = "Bill Ochieng"
 theme = "PaperMod"
 
