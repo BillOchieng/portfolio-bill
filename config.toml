@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
 title = "Bill Ochieng"
-theme = "PaperMod"
+theme = "papermod"
 
 ############################# Plugins ##############################
 
