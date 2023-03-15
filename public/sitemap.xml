@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://billochieng.netlify.app/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/</loc>
+    <loc>/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/posts/currentinterests/</loc>
+    <loc>/posts/currentinterests/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/tags/first/</loc>
+    <loc>/tags/first/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/skills/my-project/</loc>
+    <loc>/skills/my-project/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/tags/project-blog/</loc>
+    <loc>/tags/project-blog/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/skills/python-info/</loc>
+    <loc>/skills/python-info/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/skills/</loc>
+    <loc>/skills/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/skills/sql-info/</loc>
+    <loc>/skills/sql-info/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/skills/swift-info/</loc>
+    <loc>/skills/swift-info/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/projects/my-project/</loc>
+    <loc>/projects/my-project/</loc>
     <lastmod>2021-11-02T08:10:29-04:00</lastmod>
   </url><url>
-    <loc>https://billochieng.netlify.app/blog/</loc>
+    <loc>/blog/</loc>
   </url><url>
-    <loc>https://billochieng.netlify.app/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>

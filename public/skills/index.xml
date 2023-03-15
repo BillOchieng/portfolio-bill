@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Skills on Bill Ochieng</title>
-    <link>https://billochieng.netlify.app/skills/</link>
+    <link>/skills/</link>
     <description>Recent content in Skills on Bill Ochieng</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Nov 2021 08:10:29 -0400</lastBuildDate><atom:link href="https://billochieng.netlify.app/skills/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 08:10:29 -0400</lastBuildDate><atom:link href="/skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>https://billochieng.netlify.app/skills/my-project/</link>
+      <link>/skills/my-project/</link>
       <pubDate>Tue, 02 Nov 2021 08:10:29 -0400</pubDate>
       
-      <guid>https://billochieng.netlify.app/skills/my-project/</guid>
+      <guid>/skills/my-project/</guid>
       <description>I have been working with the Java language since Highschool on and off. It is one of my favorite languages to work with and one of the most popular out there.</description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://billochieng.netlify.app/skills/python-info/</link>
+      <link>/skills/python-info/</link>
       <pubDate>Tue, 02 Nov 2021 08:10:29 -0400</pubDate>
       
-      <guid>https://billochieng.netlify.app/skills/python-info/</guid>
+      <guid>/skills/python-info/</guid>
       <description>Python is my favorite language I have learned, and the one I am most comfortable working with! I love its simple and elegant design. It is easy to pick up and quick to write. I have been working with python for the past 3 years now.</description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://billochieng.netlify.app/skills/sql-info/</link>
+      <link>/skills/sql-info/</link>
       <pubDate>Tue, 02 Nov 2021 08:10:29 -0400</pubDate>
       
-      <guid>https://billochieng.netlify.app/skills/sql-info/</guid>
+      <guid>/skills/sql-info/</guid>
       <description>I am not as experienced in SQL as I am Python or Java, however I have taken a course that revolved around queries and SQLITE databases and was very interested in the language.</description>
     </item>
     
     <item>
       <title>Swift (In Progress)</title>
-      <link>https://billochieng.netlify.app/skills/swift-info/</link>
+      <link>/skills/swift-info/</link>
       <pubDate>Tue, 02 Nov 2021 08:10:29 -0400</pubDate>
       
-      <guid>https://billochieng.netlify.app/skills/swift-info/</guid>
+      <guid>/skills/swift-info/</guid>
       <description>Swift is the next language that I am currently learning. It&amp;rsquo;s use for creating iOS apps and software sparked my interest. I have begun learning this language however it is marked as in progress as I am not at a proficient level with the language yet.</description>
     </item>
     
