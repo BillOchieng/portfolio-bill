@@ -5,8 +5,6 @@ theme = "papermod"
 
 ############################# Plugins ##############################
 
-
-
 # Theme configuration
 [params]
 env = "production"
